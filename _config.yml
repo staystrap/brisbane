@@ -1,11 +1,11 @@
 # change this to the name of the repository and have it in all lower caps
-baseurl: "/template"
+baseurl: "/brisbane"
 
 # change this to the name of your city
-city: Template
+city: Brisbane
 
 # color names taken from http://materializecss.com/color.html
 # append '-text' to color2 names and prepend accent/darken with 'text-'
-city_color:  grey lighten-5
-city_color2: teal-text
+city_color:  blue darken-1
+city_color2: yellow-text
 logo_color: black # either black or white
