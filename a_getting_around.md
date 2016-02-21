@@ -11,8 +11,10 @@ transport infrastructure.
 
 # Public Transport
 Brisbanes public transport is operated by [translink](http://translink.com.au).
-Since public transport is also quite expensive, a *gocard*, which reduces fares to a high,
+Since public transport is also quite expensive, a *gocard*, which reduces fares to a still high,
 but acceptable level is adviseable. It can be bought on any CityCat or CityFerry.
+Buses operate fairly reliable (albeit not often on time), and end quite early.
+Relying on buses to get home after the party has proven to be quite a journey.
 
 ## CityCat, CityFerry and CityHopper
 On Brisbane River, ferries travel up and down the river every 20 minutes.
@@ -29,8 +31,8 @@ During peak hours, CityHoppers often reach their capacity and will not take on a
 
 ## CityCycles
 In the inner parts of Brisbane, i.e. CBD, South Bank, Westend and Kangaroo Points
-you can hire bikes for short trips at stations. After you have paid an initial
-subscription fee, the system allows you to use the bikes for free for 30 minutes (Any minute more will cost you!).
+you can hire bikes for short trips at stations. After paying an initial
+subscription fee, the system allows you to use the bikes for free for 30 minutes - any minute more will cost you!.
 If you happen to work and live around the areas of operation, you should definitely [check it out](http://www.citycycle.com.au/).
 
 ## Buses
