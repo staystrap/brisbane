@@ -24,5 +24,9 @@ Gumtree is a site that you can use to buy and sell used stuff. Most of the trade
 of this type take place here.
 
 On homestays: Homestays are an easy way to have bed under a dry roof in Australia.
-Everything depends on the type of hostfamily you are with. Some force you to be there
+Everything depends on the type of hostfamily you are with. Some may want you to be there
 for dinner at 7 p.m., while others don't.
+
+**Toowong** is a good are to live if you like going out and are a people person. This area
+offers reasonably cheap housing, a lively neighborhood, good connection to trains and CityCats,
+and is the suburb next to St. Lucia, where the University Of Queensland is located.
